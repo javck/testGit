@@ -22,3 +22,5 @@ Route::get('/test',function(){
 
 //示範怎麼進行push
 //commit&push
+
+//示範怎麼進行push2

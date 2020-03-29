@@ -19,3 +19,5 @@ Route::get('/', function () {
 Route::get('/test',function(){
     return 'Hello,World';
 });
+
+//示範怎麼進行push

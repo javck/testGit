@@ -27,3 +27,4 @@ Route::get('/test',function(){
 //示範怎麼進行push3
 
 //撰寫新功能A
+//撰寫新功能B
